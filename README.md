@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/schoolpred/schoolpred/blob/main/banner.png)](https://www.linkedin.com/in/truong-le-quang-data-analyst/)
 <h1 align="center">Hi 👋, I'm Truong Le Quang</h1>
 <h3 align="center">I enjoy working with data and am currently learning to become a Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tz4n3u2aloaz0nej86r3uoot15j0ynf6fdxd0bet&ep=v1_gifs_search&rid=giphy.gif&ct=g">
