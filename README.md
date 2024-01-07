@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lequangtruong1108@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/AgINVAgAAlQHBQRVVF5RCVZSBFBdXAJZXQYMCge3e3](https://www.topcv.vn/xem-cv/AgINVAgAAlQHBQRVVF5RCVZSBFBdXAJZXQYMCge3e3)
+- 📄 See [My CV](https://www.topcv.vn/xem-cv/AgINVAgAAlQHBQRVVF5RCVZSBFBdXAJZXQYMCge3e3) for more information about my skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
