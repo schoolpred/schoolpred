@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truong Le Quang</h1>
 <h3 align="center">I enjoy working with data and am currently learning to become a Data Engineer</h3>
 
-- 🔭 I’m currently working on **Home Credit Vietnam**
+- 🔭 I’m currently working at **Home Credit Vietnam**
 
 - 🌱 I’m currently learning **Spark, Hadoop, Kafka**
 
